@@ -19,7 +19,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails', '> 3.1.0'
   s.add_dependency 'i18n', '~> 0.7.0'
-  s.add_dependency 'jquery-rails'
 
   s.add_development_dependency 'pg'
   s.add_development_dependency 'devise'
